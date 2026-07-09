@@ -1,2 +1,2 @@
 # Credit-Control-Repository
-Python repository for credit portfolio controlling in
+Python Code repository for credit portfolio controlling 
